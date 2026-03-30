@@ -98,8 +98,9 @@ A database-focused project involving **ERD design, triggers, procedures, and fun
 
 ## 📫 Connect With Me
 
-- GitHub: [your-github-link](https://github.com/BN2323)
-
+- GitHub: https://github.com/BN2323
+- LinkIn: https://www.linkedin.com/in/bunnaroth-tha-b153493bb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSp6OZ638St62d7XMpZG7XQ%3D%3D
+- Email: bunnaroththa23@gmail.com
 ---
 
 ⭐ *“Keep building. Keep improving.”*
