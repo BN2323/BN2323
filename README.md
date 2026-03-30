@@ -1,4 +1,4 @@
-# Hi, I'm Ben John 👋
+# Hi, I'm Bunnaroth 👋
 
 🎓 Second-year Software Engineering student  
 💻 Interested in Full-Stack Development, Network Engineering, and Game Development  
