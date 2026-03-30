@@ -1,7 +1,7 @@
 # Hi, I'm Bunnaroth 👋
 
-🎓 Second-year Software Engineering student  
-💻 Interested in Full-Stack Development, Network Engineering, and Game Development  
+🎓 Third-year Software Engineering student  
+💻 Interested in Full-Stack Development and Game Development  
 🚀 Building projects, learning by doing, and working toward becoming a better developer every day  
 
 ---
@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Flutter, Backend Development, and System Design**
-- 🎮 Interested in **Game Development** using **Phaser + React**
-- 🌐 Exploring **Full-Stack Web Development**
+- 🎮 Interested in **Game Development** using **Phaser + React + Unity**
+- 🌐 Exploring **Full-Stack Web and mobile Development**
 - 🛜 Also interested in **Networking and Infrastructure**
 - 📚 Studying at **CADT**
 - 💡 I enjoy building useful and creative projects
@@ -24,6 +24,7 @@
 - C++
 - Java
 - JavaScript
+- Typescript
 - SQL
 
 ### Frontend
@@ -31,6 +32,7 @@
 - CSS
 - React
 - Tailwind CSS
+- Flutter
 
 ### Backend
 - Node.js
@@ -39,6 +41,8 @@
 
 ### Database
 - MySQL
+- PostGreSQL
+- Firebase
 
 ### Tools
 - Git
@@ -46,6 +50,8 @@
 - Figma
 - MySQL Workbench
 - VS Code
+- Trello
+- Jira
 
 ---
 
@@ -55,13 +61,14 @@
 - Improving my **problem-solving and software engineering mindset**
 - Learning how to build **real-world projects**
 - Working on projects related to **education, games, and productivity**
+- Improving code **quality and clean**
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎓 Capstone Project
-A collaborative software engineering project focused on building a real-world platform with practical features, system design, and full-stack development.
+### 🎓 (Codify) Capstone Project
+A collaborative software engineering project focused on building a real-world platform with practical features, system design, and full-stack development. Classroom, assignment, and coding challenge management, with secure assessment and coding workspace.
 
 ### 🎮 Dashii
 A game project inspired by Geometry Dash, built using **Phaser + React**.
