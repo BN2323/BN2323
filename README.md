@@ -37,6 +37,7 @@
 ### Backend
 - Node.js
 - Express.js
+- Nest.js
 - REST API
 
 ### Database
